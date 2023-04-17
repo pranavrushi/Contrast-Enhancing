@@ -16,4 +16,9 @@ For .py files:
 
       
 Input - https://github.com/pranavrushi/Contrast-Enhancing-/blob/main/yoaimo.png
-Output -
+
+Output - https://github.com/pranavrushi/Contrast-Enhancing-/blob/main/yoaimofinal.png
+
+
+![yoaimo](https://user-images.githubusercontent.com/90118186/232495497-2e5f33e8-9ab9-446d-a1a5-c32053bf716a.png)
+![yoaimo](https://user-images.githubusercontent.com/90118186/232495536-343fa18e-9afe-48db-bae7-f4af2b084aad.png)
