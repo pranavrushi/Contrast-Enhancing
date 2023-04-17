@@ -16,8 +16,12 @@ For .py files:
 
       
 input : 
-![yoaimo](https://user-images.githubusercontent.com/90118186/232495497-2e5f33e8-9ab9-446d-a1a5-c32053bf716a.png){:height="100px" width="100px"}
+
+
+![yoaimo](https://user-images.githubusercontent.com/90118186/232495497-2e5f33e8-9ab9-446d-a1a5-c32053bf716a.png)
 
 Output :
-![yoaimofinal](https://user-images.githubusercontent.com/90118186/232495823-7963ccfb-cfb6-46ba-baac-f46cc37b70e3.png){:height="100px" width="100px"}
+
+
+![yoaimofinal](https://user-images.githubusercontent.com/90118186/232495823-7963ccfb-cfb6-46ba-baac-f46cc37b70e3.png)
 
